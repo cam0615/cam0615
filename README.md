@@ -20,4 +20,4 @@ Thank you for visiting my repository. I hope you find something interesting and 
 
 <!-- Image Section -->
 <!-- Airplane Image -->
-![Airplane](https://cdn.pixabay.com/photo/2014/04/02/16/27/airplane-307008_960_720.png)
+![Airplane](https://e7.pngegg.com/pngimages/744/982/png-clipart-airplane-silhouette-silhouete-angle-airplane.png)
